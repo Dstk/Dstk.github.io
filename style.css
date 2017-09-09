@@ -1,0 +1,17 @@
+body{
+	background-color: silver
+}
+h1{
+	text-align: center;
+	: underline;
+}
+h2{
+	text-align: center;
+}
+.details{
+	color: white;
+	background: black;
+}
+#ending{
+	text-decoration: underline;
+}
